@@ -7,7 +7,7 @@ Accomplished and results-driven **.NET Full Stack Developer** with **3+ years of
 ### 🛠 Tech Stack & Expertise:
 - **Backend:** .NET Core, ASP.NET, C#
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Database:** SQL Server, MySQL
+- **Database:** SQL Server, MySQL, MongoDB
 - **Cloud & DevOps:** Azure DevOps, CI/CD, Docker, Kubernetes
 - **Others:** Entity Framework, RESTful APIs, Microservices Architecture
 
